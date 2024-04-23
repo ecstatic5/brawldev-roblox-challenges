@@ -1,10 +1,5 @@
 ![How to contribute banner](./assets/how-to-contribute-banner.png)
 
-<h1 align="center">Learn how to contribute</h1>
-<div align="center">
-  <img alt="GitHub contributors from allcontributors.org (with branch)" src="https://img.shields.io/github/all-contributors/ecstatic5/brawldev-roblox-challenges/main">
-</div>
-
 ---
 
 ## Why contribute?
